@@ -1,4 +1,4 @@
-//kadane algorithm
+//kadane algorithm - Maximum contagious array sum
 #include<iostream>
 using namespace std;
 int maxsumarray(int a[],int n)
